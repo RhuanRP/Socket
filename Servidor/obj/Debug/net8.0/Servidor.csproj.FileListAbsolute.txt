@@ -1,0 +1,14 @@
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\bin\Debug\net8.0\Servidor.exe
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\bin\Debug\net8.0\Servidor.deps.json
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\bin\Debug\net8.0\Servidor.runtimeconfig.json
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\bin\Debug\net8.0\Servidor.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\bin\Debug\net8.0\Servidor.pdb
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\obj\Debug\net8.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfo.cs
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\obj\Debug\net8.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\obj\Debug\net8.0\Servidor.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\obj\Debug\net8.0\refint\Servidor.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\obj\Debug\net8.0\Servidor.pdb
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\obj\Debug\net8.0\Servidor.genruntimeconfig.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Servidor\obj\Debug\net8.0\ref\Servidor.dll
